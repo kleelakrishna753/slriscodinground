@@ -43,7 +43,7 @@ All communication happens via structured MCP messages like:
 1. **Clone the repo**
 
 ```bash
-git clone [https://github.com/kleelakrishna753/slriscodinground.git]
+git clone https://github.com/kleelakrishna753/slriscodinground.git
 ```
 
 2. **Install dependencies**
@@ -92,6 +92,7 @@ streamlit run streamlit_app.py
 
 Uploaded: Management Quarterly Update Fiscal Year 2025 Quarter 2 Update from IRS, and asked:
 > “What is the Total Appropriated funds?”
+
 it fetches the precise number with awarness of the context that all numbers are in millions.
 
 You'll get a precise, context-aware answer with extracted evidence.
