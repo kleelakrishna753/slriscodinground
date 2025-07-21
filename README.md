@@ -43,8 +43,7 @@ All communication happens via structured MCP messages like:
 1. **Clone the repo**
 
 ```bash
-git clone [https://github.com/yourusername/agentic-rag-chatbot.git](https://github.com/kleelakrishna753/slriscodinground/)
-cd agentic-rag-chatbot
+git clone [https://github.com/kleelakrishna753/slriscodinground.git]
 ```
 
 2. **Install dependencies**
