@@ -1,10 +1,8 @@
-Great! Here's everything you need:
 
 ---
 
 # ✅ `README.md` — Complete Setup & Usage Instructions
 
-````markdown
 # 🧠 Agentic RAG Chatbot (with MCP)
 
 A modular Retrieval-Augmented Generation (RAG) chatbot that supports multi-format document QA using agent-based architecture and REST-style Model Context Protocol (MCP) message passing.
@@ -122,95 +120,4 @@ You can test using public PDFs like:
 
 MIT License
 
-```
-
----
-
-# 📊 PPT Presentation — Agentic RAG Chatbot
-
-Here’s the slide deck breakdown you can create using PowerPoint or Google Slides:
-
----
-
-## ✅ Slide 1: Title Slide
-
-**Title:**  
-Agentic RAG Chatbot for Multi-format Document QA
-
-**Subtitle:**  
-Modular Agent Architecture + MCP Messaging + Streamlit UI
-
----
-
-## ✅ Slide 2: Architecture Overview
-
-**Title:** Agent-based RAG Architecture
-
-- IngestionAgent → RetrievalAgent → LLMResponseAgent
-- All agents communicate using Model Context Protocol (MCP)
-- Coordinated via `Bus` or `CoordinatorAgent`
-
-🧱 Components:
-- FAISS
-- OpenAI Chat API
-- PyMuPDF
-- Streamlit
-
----
-
-## ✅ Slide 3: System Flow Diagram
-
-**Title:** Message Flow (MCP-Based)
-
-Diagram Flow:
-```
-
-User ⟶ IngestionAgent ⟶ RetrievalAgent ⟶ LLMResponseAgent ⟶ Streamlit UI
-⬇                       ⬇                  ⬇
-\[MCP: DOC\_INGEST]     \[MCP: CONTEXT\_REQUEST] \[MCP: ANSWER]
-
-```
-
----
-
-## ✅ Slide 4: Tech Stack
-
-**Title:** Tech Stack Used
-
-- 🔍 Retrieval: FAISS
-- 🤖 Embeddings: OpenAI (`text-embedding-3-small`)
-- 🧠 LLM: OpenAI GPT-3.5 / GPT-4
-- 📂 Docs: PyMuPDF (PDF), python-docx
-- 🧪 UI: Streamlit
-- 💬 Comms: REST-style MCP messages
-
----
-
-## ✅ Slide 5: UI Screenshots
-
-Include:
-- Upload screen
-- Chat with answer + citation
-- Debug trace (optional)
-
----
-
-## ✅ Slide 6: Challenges & Future Scope
-
-**Title:** Challenges Faced
-
-- OpenAI SDK migration (v1+)
-- Handling multi-format parsing
-- Consistent message passing via MCP
-- Session state across agents
-
-**Future Scope:**
-- LangChain agent orchestration
-- Asynchronous agent execution
-- User-authenticated namespace isolation
-
----
-
-Would you like a downloadable `.pptx` version as well?  
-Or shall I create a ready-made Google Slides deck for you?
 ```
