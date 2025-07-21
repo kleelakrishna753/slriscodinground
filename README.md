@@ -1,4 +1,4 @@
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76503e30-97c0-46cd-acc0-7d287c1eb7e3" />
 ---
 
 # ✅ `README.md` — Complete Setup & Usage Instructions
@@ -86,15 +86,18 @@ streamlit run streamlit_app.py
 
 ## 📸 Screenshot
 
-![Screenshot](screenshots/app_ui.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7fe4176a-494c-4b60-b447-cd693df25d66" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/92d4a7a7-ae57-45b1-8704-39c89c91b81b" />
+
+
 
 ---
 
 ## ✅ Working Example
 
-Upload a sample PDF (e.g. an invoice or report), and ask:
-
-> “What is the total amount due?”
+Uploaded: Management Quarterly Update Fiscal Year 2025 Quarter 2 Update from IRS, and asked:
+> “What is the Total Appropriated funds?”
+it fetches the precise number with awarness of the context that all numbers are in millions.
 
 You'll get a precise, context-aware answer with extracted evidence.
 
@@ -112,7 +115,7 @@ You'll get a precise, context-aware answer with extracted evidence.
 
 You can test using public PDFs like:
 
-* [sample invoice](https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf)
+* https://www.irs.gov/about-irs/irs-financial-reports
 
 ---
 
