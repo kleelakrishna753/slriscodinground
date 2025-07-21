@@ -1,0 +1,12 @@
+[
+    {
+        "sender": "UI",
+        "receiver": "IngestionAgent",
+        "type": "START_INGESTION",
+        "trace_id": "1234-uuid",
+        "payload": {
+            "file": "invoice.pdf",
+            "query": "What is the total due?"
+        }
+    }
+]
