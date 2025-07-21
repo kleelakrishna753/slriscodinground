@@ -115,8 +115,3 @@ You can test using public PDFs like:
 
 ---
 
-## 📄 License
-
-MIT License
-
-```
