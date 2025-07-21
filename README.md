@@ -1,7 +1,5 @@
 ---
 
-# ✅ `README.md` — Complete Setup & Usage Instructions
-
 # 🧠 Agentic RAG Chatbot (with MCP)
 
 A modular Retrieval-Augmented Generation (RAG) chatbot that supports multi-format document QA using agent-based architecture and REST-style Model Context Protocol (MCP) message passing.
