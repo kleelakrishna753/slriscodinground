@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76503e30-97c0-46cd-acc0-7d287c1eb7e3" />
 ---
 
 # ✅ `README.md` — Complete Setup & Usage Instructions
