@@ -10,7 +10,6 @@ This system uses 3 primary agents:
 - **IngestionAgent**: Parses and preprocesses PDF, DOCX, TXT files.
 - **RetrievalAgent**: Generates embeddings and performs semantic retrieval using FAISS.
 - **LLMResponseAgent**: Uses OpenAI’s Chat API to respond using contextual chunks.
-- **(Optional) CoordinatorAgent**: Orchestrates message routing using MCP-style messages.
 
 All communication happens via structured MCP messages like:
 
