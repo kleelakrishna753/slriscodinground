@@ -1,4 +1,3 @@
-# agents/retrieval_agent.py
 from utils.embeddings import get_embedding
 from utils.vector_store import FAISSVectorStore
 from mcp.schema import build_mcp_message

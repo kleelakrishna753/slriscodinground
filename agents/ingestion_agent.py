@@ -1,4 +1,3 @@
-# agents/ingestion_agent.py
 from utils.file_loader import load_file
 from utils.chunking import chunk_text
 from mcp.schema import build_mcp_message

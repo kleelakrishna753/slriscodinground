@@ -1,4 +1,3 @@
-# mcp/bus.py
 class MCPBus:
     def __init__(self):
         self.agents = {}

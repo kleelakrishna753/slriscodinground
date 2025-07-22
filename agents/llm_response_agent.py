@@ -1,4 +1,3 @@
-# agents/llm_response_agent.py
 from utils.llm import call_openai_chat
 from mcp.schema import build_mcp_message
 
