@@ -1,4 +1,4 @@
-# mcp/schema.py
+#schema
 def build_mcp_message(sender, receiver, type_, trace_id, payload):
     return {
         "sender": sender,

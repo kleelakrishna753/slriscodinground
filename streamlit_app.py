@@ -1,4 +1,3 @@
-# streamlit_app.py
 import streamlit as st
 import uuid
 from agents.coordinator_agent import bus, register_agents

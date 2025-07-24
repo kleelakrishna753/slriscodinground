@@ -1,4 +1,3 @@
-# agents/coordinator_agent.py
 from agents.ingestion_agent import handle_ingestion
 from agents.retrieval_agent import handle_retrieval
 from agents.llm_response_agent import handle_llm_response
@@ -14,5 +13,5 @@ def register_agents():
     bus.register("CoordinatorAgent", handle_coordinator)
 
 def handle_coordinator(message):
-    # For Streamlit return
+    
     return message

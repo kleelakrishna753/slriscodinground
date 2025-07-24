@@ -1,4 +1,3 @@
-# utils/chunking.py
 import textwrap
 from config import CHUNK_SIZE, CHUNK_OVERLAP
 

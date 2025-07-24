@@ -1,4 +1,3 @@
-# utils/file_loader.py
 from docx import Document
 from PyPDF2 import PdfReader
 import pandas as pd

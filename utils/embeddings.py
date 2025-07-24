@@ -1,5 +1,3 @@
-# utils/embeddings.py
-
 from openai import OpenAI
 from config import EMBEDDING_MODEL, OPENAI_API_KEY
 
